@@ -1,6 +1,4 @@
 # vllm-inference-bench
-Free-tier vLLM inference benchmarks on Colab (T4): throughput, latency, batching
-# vllm-inference-bench
 
 Free-tier benchmarks of **vLLM** vs Hugging Face `generate` on a **Google Colab Tesla T4**.
 
