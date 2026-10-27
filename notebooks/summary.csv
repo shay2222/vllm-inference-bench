@@ -1,0 +1,2 @@
+hf_mean_tokens_per_s,vllm_batch1_mean_tokens_per_s,vllm_batched_tokens_per_s,model,gpu,max_new_tokens
+19.42898650940266,152.1552188776199,448.44049562486964,Qwen/Qwen2.5-0.5B-Instruct,Tesla T4 (Colab free),64
